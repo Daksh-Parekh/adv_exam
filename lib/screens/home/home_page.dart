@@ -60,7 +60,14 @@ class _HomePageState extends State<HomePage> {
         builder: (controller) {
           if (controller.allReceipe.isEmpty) {
             return Center(
-              child: CircularProgressIndicator(),
+              child: Text(
+                "Please add recipe...",
+                style: TextStyle(
+                  fontSize: 23,
+                  fontWeight: FontWeight.bold,
+                  fontStyle: FontStyle.italic,
+                ),
+              ),
             );
           }
           return ListView.builder(
