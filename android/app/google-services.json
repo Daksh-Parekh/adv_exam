@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747711075544",
+    "project_id": "exam-app-779a4",
+    "storage_bucket": "exam-app-779a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747711075544:android:c1a2ac08535047bfcaf3ad",
+        "android_client_info": {
+          "package_name": "com.example.adv_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHeJHPFcSaAIHg0JZEehpJn1wtMM7_P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
